@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EAx
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Backend Languages
+- 🌱 I’m currently a frontend and  Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me olagunjuea1@gmail.com
 
